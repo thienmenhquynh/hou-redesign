@@ -1,0 +1,12 @@
+{
+  "title": "TRƯỜNG ĐẠI HỌC MỞ HÀ NỘI | Học tập suốt đời — dám nghĩ, dám làm",
+  "description": "A redesigned HOU university website that helps students, prospective applicants, and visitors explore academic programs, campus information, and university services.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "language": "vi"
+}
